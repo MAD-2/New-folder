@@ -1,5 +1,5 @@
 const timerH=document.querySelector('h1');
-let timeSecond=70;
+let timeSecond=5;
 displayTime(timeSecond)
 const countDown=setInterval(()=>{
     timeSecond--;
